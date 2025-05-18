@@ -139,8 +139,8 @@ External APIs (like Twilio for SMS, SendGrid for Email)
 
 👤 Author
 ARYAN SINGH
-GitHub: [your-github-profile-link]
+GitHub: [https://github.com/AryanSingh-Cloud]
 
 📄 License
-This project is for demonstration purposes and does not include a specific licens
+This project is for demonstration purposes and does not include a specific license
 

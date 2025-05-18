@@ -44,6 +44,9 @@ notification_service/
 ├── requirements.txt # Required Python packages
 ├── README.md # Project documentation
 
+
+
+
 ---
 
 ## 🚀 Getting Started
@@ -58,7 +61,7 @@ notification_service/
 
 ## ✅ Installation & Running
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone <your-repo-url>
@@ -78,7 +81,6 @@ bash
 pip install -r requirements.txt
 
 4. Start the FastAPI Server
-
 bash
 uvicorn app.main:app --reload
 
@@ -92,7 +94,6 @@ POST http://localhost:8000/notifications
 Body Example (JSON):
 
 json
-Copy code
 {
   "user_id": 1,
   "message": "Your order has been shipped!",
